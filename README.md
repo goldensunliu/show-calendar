@@ -1,6 +1,6 @@
 # Show Launch Calendar
 
-A Calendar UI that displays show launches in a monthly grid view built on top of A [React](https://reactjs.org/) Framework, [Next.js](https://nextjs.org/)
+A calendar UI that displays show launches in a monthly grid view built on top of a [React](https://reactjs.org/) Framework, [Next.js](https://nextjs.org/)
 #### Product Features:
 * Easy Navigation
 * URL driven SPA `/calendar/:year/:month`
